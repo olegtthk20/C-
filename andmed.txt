@@ -1,0 +1,6 @@
+Number oli 3,päev on ´kolmapäev
+Number oli 4,päev on neljapäev
+156
+your solution is 156
+your solution is 303
+Number oli 0,päev on viga!
